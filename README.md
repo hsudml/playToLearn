@@ -8,7 +8,7 @@ Nate created the workshop as part of the Humboldt State University [SkillShops](
 
 ## Game
 
-Nate's game can be viewed/downloaded via the repo. There is a demo version using the Mozilla Unity WebVR assets (and totally not at all working correctly at present). 
+Nate's game can be viewed/downloaded via the [source repo](https://github.com/hsudml/playToLearn/tree/master/source). There is a demo version using the Mozilla Unity WebVR assets (and totally not at all working correctly at present). 
 
 ## Handout
 
