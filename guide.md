@@ -20,6 +20,7 @@ Unity® is also available on campus in the Digital Media Lab (L120), the Library
 ## Part 1: Setup
 + Download and unzip PlayToLearn folder here: http://bit.ly/playToLearn
 + Launch Unity® and select the ‘Open’ option near the upper right, open the PlayToLearn folder.
+
 ![Screen shot of menu with Open option](images/openScreenshot.png)
 
 ### Note: 
@@ -33,26 +34,33 @@ The Editor is divided into several windows:
 3. Hierarchy: hierarchical view of content content in scene.
 4. Game: preview of your game. Corresponds to the main camera in your scene.
 5. Inspector: A detailed view of whatever is selected.
+
 ![Screen shot of Unity interface](images/interfaceScreenshot.png)
 
 ## Part 3: Making Stuff Happen
 For the purposes of this SkillShop, several “broken” scenes have been prepared for you to fix. In your Project window, open SkillShop/Scenes/SkillShopSequence. Each of these scenes presents a different challenge.
+
 ![Screen shot of Unity interface](images/projectWindowScreenshot.png)
 
 ### Scene 1: Add Box Colliders so the player won’t fall through the floor.
 Select the objects named “Catwalk” in the Hierarchy. (try typing “cat” in the search bar!)
+
 ![Screen shot of Unity interface](images/hierarchyWindowScreenshot.png)
+
 In the Inspector, click “Add Component” and type in “Box Collider”
+
 ![Screen shot of Unity interface](images/inspectorWindowScreenshot.png)
 
 ### Scene 2: Let the player jump high enough!
 + Expand LaunchAbility attached to “Player”
 + Find “movement force”
 + Change the value to 30… or whatever you choose, at your own risk
+
 ![Screen shot of Unity interface](images/movementForceScreenshot.png)
 
 ### Scene 3: How would you change the red orbs to make them easier?
 (Hint: relevant component  attached to “base” subobject of these orbs!)
+
 ![Screen shot of Unity interface](images/baseScreenshot.png)
 
 ## Part 4: Onward!
