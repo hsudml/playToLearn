@@ -12,9 +12,10 @@ Nate's game can be viewed/downloaded via the [source repo](https://github.com/hs
 
 ## Guide
 Multiple versions of the same content:
+
++ [Webpage](https://hsudml.github.io/playToLearn/guide) (screen reader friendly).
 + [Printable booklet](https://drive.google.com/open?id=1403cGIcuKzAvE5ZwHgZ3IU3ziyTrFNqV) (not accessible).
-+ [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vQhfI7_HUue1dJuERzYscoUaBKN1MhYEzyMRsau-zYkUoON4X69URww2HC_2Rmyztu1ayAqFbfeQ9BZ/pub?start=false&loop=false&delayms=3000) (also not accessible).
-+ [Webpage](https://hsudml.github.io/playToLearn/guide) (accessible!).
++ [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vQhfI7_HUue1dJuERzYscoUaBKN1MhYEzyMRsau-zYkUoON4X69URww2HC_2Rmyztu1ayAqFbfeQ9BZ/pub?start=false&loop=false&delayms=3000) (not accessible).
 
 ---
 ## Other Links
