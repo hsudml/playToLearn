@@ -18,6 +18,7 @@ Nate's game can be viewed/downloaded via the [source repo](https://github.com/hs
 
 [Webpage](https://hsudml.github.io/playToLearn/guide) (accessible!).
 
+---
 ## Other Links
 
 Original game template download (Google Drive link): [https://drive.google.com/open?id=1gO6mczqwZL5n0AqDHtQ1lcLD4x8XJGtE](https://drive.google.com/open?id=1gO6mczqwZL5n0AqDHtQ1lcLD4x8XJGtE)
