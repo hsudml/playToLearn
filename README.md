@@ -20,6 +20,6 @@ Webpage (accessible!).
 
 ## Other Links
 
-Original game template download (Google Drive link): https://drive.google.com/open?id=1gO6mczqwZL5n0AqDHtQ1lcLD4x8XJGtE
+Original game template download (Google Drive link): [https://drive.google.com/open?id=1gO6mczqwZL5n0AqDHtQ1lcLD4x8XJGtE](https://drive.google.com/open?id=1gO6mczqwZL5n0AqDHtQ1lcLD4x8XJGtE)
 
 For more info, questions, or suggestions, email dml@humboldt.edu
