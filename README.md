@@ -11,12 +11,10 @@ Nate created the workshop as part of the Humboldt State University [SkillShops](
 Nate's game can be viewed/downloaded via the [source repo](https://github.com/hsudml/playToLearn/tree/master/source). There is a [demo version](https://hsudml.github.io/playToLearn/natesGameWebVR/) using the Mozilla Unity WebVR assets (and totally not at all working correctly at present). 
 
 ## Guide
-
-[Printable booklet](https://drive.google.com/open?id=1403cGIcuKzAvE5ZwHgZ3IU3ziyTrFNqV) (not accessible).
-
-[Digital version](https://docs.google.com/presentation/d/e/2PACX-1vQhfI7_HUue1dJuERzYscoUaBKN1MhYEzyMRsau-zYkUoON4X69URww2HC_2Rmyztu1ayAqFbfeQ9BZ/pub?start=false&loop=false&delayms=3000) (also not accessible).
-
-[Webpage](https://hsudml.github.io/playToLearn/guide) (accessible!).
+Multiple versions of the same content:
++ [Printable booklet](https://drive.google.com/open?id=1403cGIcuKzAvE5ZwHgZ3IU3ziyTrFNqV) (not accessible).
++ [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vQhfI7_HUue1dJuERzYscoUaBKN1MhYEzyMRsau-zYkUoON4X69URww2HC_2Rmyztu1ayAqFbfeQ9BZ/pub?start=false&loop=false&delayms=3000) (also not accessible).
++ [Webpage](https://hsudml.github.io/playToLearn/guide) (accessible!).
 
 ---
 ## Other Links
