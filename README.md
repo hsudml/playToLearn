@@ -1,4 +1,4 @@
-# playToLearn
+# Play to Learn!
 
 ## Workshop
 
