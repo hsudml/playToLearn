@@ -12,7 +12,7 @@ Nate's game can be viewed/downloaded via the [source repo](https://github.com/hs
 
 ## Guide
 
-[Printable booklet](https://drive.google.com/file/d/1403cGIcuKzAvE5ZwHgZ3IU3ziyTrFNqV/view?usp=sharing) (not accessible).
+[Printable booklet](https://drive.google.com/open?id=1403cGIcuKzAvE5ZwHgZ3IU3ziyTrFNqV) (not accessible).
 
 [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vQhfI7_HUue1dJuERzYscoUaBKN1MhYEzyMRsau-zYkUoON4X69URww2HC_2Rmyztu1ayAqFbfeQ9BZ/pub?start=false&loop=false&delayms=3000) (also not accessible).
 
