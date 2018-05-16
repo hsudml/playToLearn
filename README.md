@@ -17,9 +17,12 @@ Multiple versions of the same content:
 + [Printable booklet](https://drive.google.com/open?id=1403cGIcuKzAvE5ZwHgZ3IU3ziyTrFNqV) (not accessible).
 + [Digital version](https://docs.google.com/presentation/d/e/2PACX-1vQhfI7_HUue1dJuERzYscoUaBKN1MhYEzyMRsau-zYkUoON4X69URww2HC_2Rmyztu1ayAqFbfeQ9BZ/pub?start=false&loop=false&delayms=3000) (not accessible).
 
+
+
 ---
 ## Other Links
-
 Original game template download (Google Drive link): [https://drive.google.com/open?id=1gO6mczqwZL5n0AqDHtQ1lcLD4x8XJGtE](https://drive.google.com/open?id=1gO6mczqwZL5n0AqDHtQ1lcLD4x8XJGtE)
+
+[View all of the SkillShops repositories](https://hsudml.github.io/skillshops)
 
 For more info, questions, or suggestions, email dml@humboldt.edu
