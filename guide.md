@@ -18,8 +18,9 @@ Unity® is available for free download here: [https://store.unity.com/download](
 Unity® is also available on campus in the Digital Media Lab (L120), the Library computer lab (L121), and the Art 125 computer lab. You will need to setup an account but can use your HSU Google account.
 
 ## Part 1: Setup
-+ Download and unzip [PlayToLearn folder](http://bit.ly/playToLearn)
-+ Launch Unity® and select the ‘Open’ option near the upper right, open the PlayToLearn folder.
++ Download and unzip the [PlayToLearn folder](http://bit.ly/playToLearn)
++ Launch Unity® 
++ Select the ‘Open’ option near the upper right. Open the PlayToLearn folder.
 
 ![Screen shot of menu with Open option](images/openScreenshot.png)
 
